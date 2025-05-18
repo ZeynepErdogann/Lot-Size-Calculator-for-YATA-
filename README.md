@@ -1,1 +1,1 @@
-# Lot-Size-Calculator-for-YATA-
+# Lot-Size-Calculator-for-YATAS-
