@@ -294,7 +294,7 @@ document.getElementById('costSummary').innerHTML = `
         data: {
           labels: demands.map((_,i)=>`W${i+1}`),
           datasets: [
-            { label:'Production', data:production, tension:0.3, borderColor: '#FFC0CB', backgroundColor: '#ff1493'},
+            { label:'Production', data:production, tension:0.3, borderColor: '#ff1493', backgroundColor: '#e75480'},
             { label:'Inventory', data:inventory, tension:0.3, borderColor: '#A020F0', backgroundColor: '#871F78'  }
           ]
         }
